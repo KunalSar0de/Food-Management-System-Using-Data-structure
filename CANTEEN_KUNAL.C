@@ -1,3 +1,8 @@
+//Canteen Management(Data Structure)
+//Author:Kunal Sarode
+//GitHub:github.com/Mrks916
+
+
 #include<stdio.h>
 #include<conio.h>
 #include<malloc.h>
